@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head profile="http://selenium-ide.openqa.org/profiles/test-case">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="selenium.base" href="https://www.google.com/" />
+<title>test1</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">test1</td></tr>
+</thead><tbody>
+<tr>
+	<td>open</td>
+	<td>/doodles</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Kho lưu trữ hình tượng trưng</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//ul[@id='archive-list']/li[45]/div/div/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=a &gt; img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Giới thiệu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>id=logo</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=img[alt=&quot;Kỷ niệm 119 năm ngày sinh của Victor Brecheret&quot;]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=lst-ib</td>
+	<td>selenium tutorial</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=lst-ib</td>
+	<td>selenium tutorial sites</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=TOOLSQA | Tutorials on Selenium, Java, TestNG, Cucumber ...</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=video.video-stream.html5-main-video</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=button.videoAdUiSkipButton.videoAdUiAction</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//ul[@id='main-nav']/li[2]/ul/li[2]/a/span</td>
+	<td></td>
+</tr>
+<tr>
+	<td></td>
+	<td></td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Selenium - Environment Setup</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait the deo nao</td>
+	<td>link=Selenium - IDE</td>
+	<td></td>
+</tr>
+
+</tbody></table>
+</body>
+</html>
